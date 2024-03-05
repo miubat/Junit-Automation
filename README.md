@@ -36,7 +36,7 @@ The test performs the following steps:
 4. Asserts the success message.
 
 ## Test Report
-![Screenshot_18](https://github.com/miubat/Junit-automation/assets/160812376/f6c0db2a-daaf-449e-abb9-398e06ec053a)
+![Screenshot_18](https://github.com/miubat/Junit-Automation/assets/96487335/ec0a313e-e798-41da-96ae-bc914bef7b10)
 
 
 
